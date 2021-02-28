@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TaheirAhmedAshraf/jupiter.io/static/css/main.cba47b02.chunk.css",
+    "main.js": "/TaheirAhmedAshraf/jupiter.io/static/js/main.7b333d2e.chunk.js",
+    "main.js.map": "/TaheirAhmedAshraf/jupiter.io/static/js/main.7b333d2e.chunk.js.map",
+    "runtime-main.js": "/TaheirAhmedAshraf/jupiter.io/static/js/runtime-main.634a93e6.js",
+    "runtime-main.js.map": "/TaheirAhmedAshraf/jupiter.io/static/js/runtime-main.634a93e6.js.map",
+    "static/css/2.78afd4a5.chunk.css": "/TaheirAhmedAshraf/jupiter.io/static/css/2.78afd4a5.chunk.css",
+    "static/js/2.b8f25dc6.chunk.js": "/TaheirAhmedAshraf/jupiter.io/static/js/2.b8f25dc6.chunk.js",
+    "static/js/2.b8f25dc6.chunk.js.map": "/TaheirAhmedAshraf/jupiter.io/static/js/2.b8f25dc6.chunk.js.map",
+    "static/js/3.468cdd10.chunk.js": "/TaheirAhmedAshraf/jupiter.io/static/js/3.468cdd10.chunk.js",
+    "static/js/3.468cdd10.chunk.js.map": "/TaheirAhmedAshraf/jupiter.io/static/js/3.468cdd10.chunk.js.map",
+    "index.html": "/TaheirAhmedAshraf/jupiter.io/index.html",
+    "static/css/2.78afd4a5.chunk.css.map": "/TaheirAhmedAshraf/jupiter.io/static/css/2.78afd4a5.chunk.css.map",
+    "static/css/main.cba47b02.chunk.css.map": "/TaheirAhmedAshraf/jupiter.io/static/css/main.cba47b02.chunk.css.map",
+    "static/js/2.b8f25dc6.chunk.js.LICENSE.txt": "/TaheirAhmedAshraf/jupiter.io/static/js/2.b8f25dc6.chunk.js.LICENSE.txt",
+    "static/media/HomePageImage.844ff387.png": "/TaheirAhmedAshraf/jupiter.io/static/media/HomePageImage.844ff387.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.634a93e6.js",
+    "static/css/2.78afd4a5.chunk.css",
+    "static/js/2.b8f25dc6.chunk.js",
+    "static/css/main.cba47b02.chunk.css",
+    "static/js/main.7b333d2e.chunk.js"
+  ]
+}
